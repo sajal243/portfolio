@@ -1,0 +1,15 @@
+.articles{
+    text-align: center;
+    margin: 7rem 0;
+}
+
+.articles h1{
+    color: #ff8800;
+}
+
+.articleDiv{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    margin: 40px auto;
+}

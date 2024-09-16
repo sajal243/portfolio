@@ -1,0 +1,36 @@
+.card{
+    width: 350px;
+    border-radius: 12px;
+    border: 1px solid #2e2929;
+    background-color: #191919;
+    color: #fdfdfd;
+}
+
+.card:hover{
+    transform: scale(1.01);
+    box-shadow: 0 3px 10px rgba(96,96,96,.3)
+}
+
+.img{
+    width: 100%;
+    height: 270px;
+    border-radius: 12px 12px 0 0;
+}
+
+.name{
+    font-size: 20px;
+    font-weight: 600;
+    margin:20px 20px 20px 20px;
+    text-align: left;
+}
+
+.tech{
+    font-size: 18px;
+    margin: 10px 20px 20px 20px;
+    text-align: left;
+    line-height: 28px;
+}
+
+.tech span{
+    font-weight: 600;
+}

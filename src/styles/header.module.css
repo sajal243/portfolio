@@ -1,0 +1,27 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 24px 28px;
+    box-shadow: 3px 3px 40px rgba(96,96,96,.3)
+}
+
+.navbar{
+    display: flex;
+    align-items: center;
+}
+
+.right{
+    display: flex;
+    float: right;
+    gap: 30px;
+    cursor: pointer;
+}
+
+.item{
+    font-weight: 600;
+}
+
+.item:hover{
+    color: yellow;
+    
+}

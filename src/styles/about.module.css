@@ -1,0 +1,41 @@
+
+.about{
+    display: flex;
+    justify-content: space-between;
+}
+.left{
+    width: 50%;
+}
+
+.right{
+    width: 50%;
+    text-align: center;
+}
+
+.right h1{
+    color: #ff8800;
+}
+
+.aboutImg{
+    width: 400px;
+    height: 400px;
+    background-image: url('../../public/about-boy-removebg-preview.png');
+    background-size: cover;
+    background-position: center; 
+    background-repeat: no-repeat;
+    margin: auto;
+}
+
+
+
+.list{
+    margin: 40px 0;
+}
+
+.listItem{
+    font-size: 20px;
+    text-align: left;
+    line-height: 30px;
+    margin: 20px 0;
+    list-style-type: disclosure-closed;
+}

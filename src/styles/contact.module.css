@@ -1,0 +1,31 @@
+.contact{
+    display: flex;
+    background-color: black;
+    padding: 40px 0px;
+    text-align: center;
+    width: 80%;
+    margin: 7rem auto;
+    border-radius: 12px;
+    box-shadow: 3px 3px 40px rgba(96,96,96,.3)
+}
+.left{
+    width: 40%;
+    display: grid;
+}
+
+.right{
+    width: 60%;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    row-gap: 20px;
+}
+
+.info{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.info:hover{
+    color: yellow;
+}

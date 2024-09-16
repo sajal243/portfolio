@@ -1,0 +1,19 @@
+/* components/Typewritercomp.module.css */
+.container {
+    font-size: 24px;
+    font-family: sans-serif;
+  }
+  
+  .typewriterCursor {
+    font-size: 48px;
+    font-weight: 600;
+    animation: blink 1s step-start infinite;
+    /* color: red; */
+  }
+  
+  @keyframes blink {
+    50% {
+      background-color: transparent;
+    }
+  }
+  

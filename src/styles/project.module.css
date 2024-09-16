@@ -1,0 +1,14 @@
+.project{
+    text-align: center;
+}
+
+.project h1{
+    color: #ff8800;
+}
+
+.projectDiv{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    margin: 40px auto;
+}

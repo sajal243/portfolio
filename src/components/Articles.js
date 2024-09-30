@@ -9,21 +9,21 @@ const Articles = () => {
             id: "0",
             name: "How to Deploy React App",
             url: "https://www.linkedin.com/pulse/how-deploy-react-app-sajal-gupta-c7acc/",
-            imgUrl: "/deploy.png",
+            imgUrl: "deploy.png",
             tech: "HTML5, CSS3, JavaScript, React.js"
         },
         {
             id: "1",
             name: "Shortest React App",
             url: "https://www.geeksforgeeks.org/shortest-react-app/",
-            imgUrl: "/react-app.png",
+            imgUrl: "react-app.png",
             tech: "HTML5, SCSS, JavaScript, Next.js "
         },
         {
             id: "2",
             name: "Accelerated Mobile Pages",
             url: "https://www.geeksforgeeks.org/accelerated-mobile-pages-amp-pages/",
-            imgUrl: "/amp.png",
+            imgUrl: "amp.png",
             tech: "HTML5, CSS3, JavaScript, React.js"
         },
         

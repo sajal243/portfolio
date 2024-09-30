@@ -9,21 +9,21 @@ const Project = () => {
             id: "0",
             name: "Trending App",
             url: "https://www.geeksforgeeks.org/trending/",
-            imgUrl: "/trending.png",
+            imgUrl: "trending.png",
             tech: "HTML5, SCSS, JavaScript, Next.js "
         },
         {
             id: "1",
             name: "Todo App",
             url: "https://sajal243.github.io/my-todo-app/",
-            imgUrl: "/todo.png",
+            imgUrl: "todo.png",
             tech: "HTML5, CSS3, JavaScript, React.js"
         },
         {
             id: "2",
             name: "Contact App",
             url: "https://sajal243.github.io/ManageContactApp/",
-            imgUrl: "/contact_app.png",
+            imgUrl: "contact_app.png",
             tech: "HTML5, CSS3, JavaScript, React.js"
         },
     ]

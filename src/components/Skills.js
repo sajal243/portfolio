@@ -3,18 +3,18 @@ import styles from "../styles/skills.module.css"
 
 const Skills = () => {
   const SkillsImg = [
-    {lang: "html", url: "/html5.svg", class:"html"},
-    {lang: "css", url: "/css.svg"},
-    {lang: "js", url: "/javascript.svg"},
-    {lang: "react", url: "/react.svg", class:"react"},
-    {lang: "next", url: "/nextjs.png", class:"next"},
-    {lang: "ts", url: "/typescript.svg"},
-    {lang: "node", url: "/nodejs.svg", class:"node"},
+    {lang: "html", url: "html5.svg", class:"html"},
+    {lang: "css", url: "css.svg"},
+    {lang: "js", url: "javascript.svg"},
+    {lang: "react", url: "react.svg", class:"react"},
+    {lang: "next", url: "nextjs.png", class:"next"},
+    {lang: "ts", url: "typescript.svg"},
+    {lang: "node", url: "nodejs.svg", class:"node"},
     {lang: "python", url: "python.svg"},
     {lang: "php", url: "php.svg"},
-    {lang: "sql", url: "/mysql-ar21.svg", class:"sql"},
-    {lang: "tw", url: "/tailwind-svgrepo-com.svg"},
-    {lang: "mz", url: "/materialize.png"},
+    {lang: "sql", url: "mysql-ar21.svg", class:"sql"},
+    {lang: "tw", url: "tailwind-svgrepo-com.svg"},
+    {lang: "mz", url: "materialize.png"},
   ]
   return (
     <div id='skills' className={styles.skills}>

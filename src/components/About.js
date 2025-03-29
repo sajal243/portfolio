@@ -5,7 +5,7 @@ import styles from "../styles/about.module.css"
 const About = () => {
 
     const points = [
-        "Fullstack Web Developer with 2+ years of experience, proficient in HTML5, CSS3, JavaScript, React.js, Next.js, Python, and SQL, delivering both frontend and backend solutions.",
+        "Fullstack Web Developer with 3+ years of experience, proficient in HTML5, CSS3, JavaScript, React.js, Next.js, TypeScript Python, SCSS and SQL, delivering both frontend and backend solutions.",
         "Problem-Solving Expert, having tackled over 700 coding challenges on LeetCode and GeeksforGeeks, demonstrating strong analytical and algorithmic skills.",
         "Content Creator with a track record of writing insightful web development articles, sharing knowledge and staying current with industry trends.",
         "Award-Winning Developer, honored with a silver certificate at the Bootathon organized by IIT Bombay and MHRD for exceptional project contributions.",

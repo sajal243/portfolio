@@ -15,8 +15,8 @@ const Contact = () => {
         <div className={styles.right}>
             <div className={styles.info}> <Email/>  its.sajalgupta24@gmail.com</div>
             <div className={styles.info}> <Phone/>  +91-8077043974</div>
-            <a href='https://www.linkedin.com/in/sajal-gupta-dev/'><div className={styles.info}> <LinkedIn/>  LinkedIn </div></a>
-            <a href='https://github.com/sajal243/'><div className={styles.info}> <GitHub/>  GitHub </div></a>
+            <div className={styles.info}><a href='https://www.linkedin.com/in/sajal-gupta-dev/'> <LinkedIn/>  LinkedIn </a></div>
+            <div className={styles.info}><a href='https://github.com/sajal243/'> <GitHub/>  GitHub </a></div>
         </div>
     </div>
   )
